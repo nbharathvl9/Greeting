@@ -10,9 +10,15 @@ body {
 }
 
 .head{
-    text-align: center;
+    background-color: rgb(136, 143, 156);
     color: #b0b0ba;
-    
+    padding: 10px;
+    border-radius: 10px;
+    border-width: 3px;
+    width: 400px;
+    margin: 50px auto;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    line-height: 30px;
 }
 .wrapper {
     width: 100%;
